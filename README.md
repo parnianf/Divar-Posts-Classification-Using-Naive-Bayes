@@ -9,6 +9,4 @@ In this project, we are going to use Naive Bayes Classifier to analyze the [Diva
   5. leisure-hobbies 
   6. electronic-devices. 
 
-I go through pre-processing the data and then create the model based on the train data. In the end, there is an evaluation part where we can assess how efficient the created model is!
-
-**Naive bayes** is a classification technique based on Bayes’ Theorem with an assumption of independence among predictors. Naive Bayes classifier assumes that the presence of a particular feature in a class is unrelated to the presence of any other feature. Also we get familiar with the **bag of words** method, new libraries like `hazm`, new methods to normalize text, how to modify our model in order to get better results and how to evaluate our model.
+**Naive bayes** is a classification technique based on Bayes’ Theorem with an assumption of independence among predictors. Naive Bayes classifier assumes that the presence of a particular feature in a class is unrelated to the presence of any other feature.
